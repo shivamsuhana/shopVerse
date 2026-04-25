@@ -64,5 +64,5 @@ To demonstrate realistic application behavior, the payment section includes a si
 ---
 
 <div align="center">
-  <p>Crafted with ❤️ for the Internshala Assignment</p>
+  <p>Crafted with ❤️ </p>
 </div>
